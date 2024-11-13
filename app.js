@@ -10,7 +10,7 @@ const bd_juego = [
     },
     {
         id:1,
-        pregunta:"¿CSS en un?",
+        pregunta:"¿CSS es un:?",
         op0:"Lenguaje de Marcado",
         op1:"Estilo de Cascada",
         op2:"Lenguaje de programación",
@@ -82,11 +82,83 @@ const bd_juego = [
     },
     {
         id:10,
-        pregunta:"¿Cual etiqueta se usa para crear un enlace?",
+        pregunta:"¿Cuál etiqueta se usa para crear un enlace?",
         op0:"<a> </a>",
         op1:"Link",
         op2:"li",
         correcta:"0"
+    },
+    {
+        id:11,
+        pregunta:"¿Cuál es el propósito de la etiqueta (nav) en HTML?",
+        op0:"Define el encabezado",
+        op1:"Agrupar elementos de navegación",
+        op2:"Crea una lista desordenada",
+        correcta:"1"
+    },
+    {
+        id:12,
+        pregunta:"¿Cuál es la forma correcta de insertar una imágen en HTML?",
+        op0:"<img link='img/foto.jpg' alt='Foto'>",
+        op1:"<img href='img/foto.jpg' alt='Foto'>",
+        op2:"<img src='img/foto.jpg' alt='Foto'>",
+        correcta:"2"
+    },
+    {
+        id:13,
+        pregunta:"¿Qué etiqueta en HTML se cierra automaticamente?",
+        op0:"<img>",
+        op1:"<imgage>",
+        op2:"<iframe>",
+        correcta:"0"
+    },
+    {
+        id:14,
+        pregunta:"¿Cómo se divide el desarrollo web?",
+        op0:"Desarrollo de código y diseño",
+        op1:"Desarrollo Front-end y Back-end",
+        op2:"Desarrollo de Software y Hardware",
+        correcta:"1"
+    },
+    {
+        id:15,
+        pregunta:"¿El código de Javascript se debe escribir en?",
+        op0:"Dentro del archivo HTML",
+        op1:"En archivo independiente con una extensión .js",
+        op2:"Ninguna es correcta",
+        correcta:"1"
+    },
+    {
+        id:16,
+        pregunta:"¿En CSS la propiedad (border) para que sirve?",
+        op0:"Permite especificar el estilo, el ancho y el color del borde de un elemento.",
+        op1:"Permite crear una línea",
+        op2:"Coloca fondo a un elemento",
+        correcta:"0"
+    },
+    {
+        id:17,
+        pregunta:"¿Cómo se inserta un comentario en un archivo de CSS?",
+        op0:"// Comentario //",
+        op1:"<!-- Comentario> -->",
+        op2:"/* Comentario */",
+        correcta:"2"
+    },
+    {
+        id:18,
+        pregunta:"¿Cuál es la propiedad de asignar el tamaño a la fuente en CSS?",
+        op0:"font-family: 22px;",
+        op1:"font-size: 22px;",
+        op2:"font-weight: 22px; ",
+        correcta:"1"
+    },
+    {
+        id:19,
+        pregunta:"La etiqueta <table> sirve para",
+        op0:"Crear un formulario",
+        op1:"Crear una lista",
+        op2:"Crear una tabla",
+        correcta:"2"
     },
 ]
 
