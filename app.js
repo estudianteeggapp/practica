@@ -2,7 +2,7 @@
 const bd_juego = [
     {
         id:0,
-        pregunta:"¿Cuál es el lenguaje para crear una Web?",
+        pregunta:"¿Cuál es el lenguaje para crear la estructura de una página Web?",
         op0:"CSS",
         op1:"HTML",
         op2:"Javascript",
